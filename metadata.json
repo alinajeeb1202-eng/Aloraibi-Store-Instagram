@@ -1,0 +1,6 @@
+{
+  "name": "مواقيت الصلاة التلقائي",
+  "description": "نظام تلقائي لإرسال مواقيت الصلاة في البحرين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
